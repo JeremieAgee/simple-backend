@@ -1,0 +1,14 @@
+{
+  "name": "simple-backend",
+  "version": "1.0.0",
+  "description": "simple Backend server",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
