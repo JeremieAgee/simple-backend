@@ -7,14 +7,16 @@ The source code for this file can be found on github at
 ### Tech Stack
 The tecnologies used:
 -Javascript
-Libraries used:
+Dependicies:
 -Node.js
 -Express.js
+-Cors.js
  
- ### Run
+ ### To Run
 
- To run test server, in terminal run "node index.js".
- The server will run on 'https://localehost:3000'
- 
+1: Install dependicies
+2: In terminal run "node index.js".
+The server will run on 'https://localehost:3000'
+
 
 
